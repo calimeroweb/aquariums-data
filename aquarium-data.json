@@ -1,7 +1,22 @@
 {
-  "aquariums": [],
-  "changementsEau": {},
-  "nettoyagesFiltres": {},
-  "population": {},
-  "lastSync": "2025-10-15T21:01:32.983Z"
+  "aquariums": [
+    {
+      "id": "1760562116597",
+      "nom": "80",
+      "volume": 80,
+      "description": "",
+      "photo": "",
+      "dateCreation": "2025-10-15"
+    }
+  ],
+  "changementsEau": {
+    "1760562116597": []
+  },
+  "nettoyagesFiltres": {
+    "1760562116597": []
+  },
+  "population": {
+    "1760562116597": []
+  },
+  "lastSync": "2025-10-15T21:02:51.096Z"
 }
